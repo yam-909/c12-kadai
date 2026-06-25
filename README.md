@@ -42,6 +42,8 @@ img_flip.save(output_image)
 
 | 入力画像(inout.jpg) | 出力画像(output.jpg) |
 | --- | --- |
-|a|a|
+| ![入力画像](input.jpg) | ![出力画像](output.jpg) |
+
+以上
 
 
